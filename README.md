@@ -2,6 +2,8 @@
 ### Authors: Kentalives & midtxwn @ Github
 Lightweight and ultra-minimalistic CLI Application implemented through Windows API to replicate keystrokes from a client to a server node, enabling remote keyboard control. Originally created to play Split-Screen videogames using two computers. Keystroke data is sent through TCP protocol and lacks encryption.
 
+![NIDHOGGPreview](https://github.com/user-attachments/assets/2724918d-42e8-46dc-915d-1eca0dab1514)
+
 # USAGE 
 Application contains two components: client and server.  Client will send keystrokes, server will receive them and replicate them as if they were his.
 ## SERVER
