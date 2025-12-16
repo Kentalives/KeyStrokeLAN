@@ -1,0 +1,10 @@
+﻿  NidhoggClientReal.cpp
+C:\Users\ojoas\source\repos\NidhoggClientReal\NidhoggClientReal\NidhoggClientReal.cpp(11,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__closesocket@4 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__connect@12 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__htons@4 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__recv@16 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__send@16 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__socket@12 sin resolver al que se hace referencia en la función _main
+NidhoggClientReal.obj : error LNK2019: símbolo externo __imp__inet_pton@12 sin resolver al que se hace referencia en la función _main
+C:\Users\ojoas\source\repos\NidhoggClientReal\Debug\NidhoggClientReal.exe : fatal error LNK1120: 7 externos sin resolver
