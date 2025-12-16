@@ -1,6 +1,6 @@
 # KeyStrokeLAN
 ### Authors: Kentalives & midtxwn @ Github
-Lightweight an ultra-minimalistic CLI Application implemented through Windows API to replicate keystrokes from a client to a server node, enabling remote keyboard control. Originally created to play Split-Screen videogames using two computers. Keystroke data is sent through TCP protocol and lacks encryption.
+Lightweight and ultra-minimalistic CLI Application implemented through Windows API to replicate keystrokes from a client to a server node, enabling remote keyboard control. Originally created to play Split-Screen videogames using two computers. Keystroke data is sent through TCP protocol and lacks encryption.
 
 # USAGE 
 Application contains two components: client and server.  Client will send keystrokes, server will receive them and replicate them as if they were his.
