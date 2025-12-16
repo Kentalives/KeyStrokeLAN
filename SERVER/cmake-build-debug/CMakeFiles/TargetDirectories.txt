@@ -1,0 +1,3 @@
+C:/Users/Brusi/CLionProjects/NidhoggRemoteKeyboard/cmake-build-debug/CMakeFiles/NidhoggRemoteKeyboard.dir
+C:/Users/Brusi/CLionProjects/NidhoggRemoteKeyboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Brusi/CLionProjects/NidhoggRemoteKeyboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
