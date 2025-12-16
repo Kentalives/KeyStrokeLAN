@@ -10,4 +10,4 @@ To launch, run SERVER/NidhoggRemoteKeyboard.exe <p> , where <p> is the port wher
 To launch, run CLIENT/x64/Release/NidhoggClientReal.exe <ip> <p>, where <ip> is the IP address of the server and <p> is the port where the server is listening.
 
 # ARCHITECTURE
-The server part is written in plain C using CLion and the client is written in C++17 using Visual Studio Community 2022.
+The server part is written in plain C99 using CLion and the client is written in C++17 using Visual Studio Community 2022.
