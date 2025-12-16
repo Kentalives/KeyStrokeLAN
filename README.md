@@ -1,0 +1,1 @@
+Application to send keystrokes through a local network so that they are registered in a destiny machine and processed as if they were local. Its original intended use was for playing 2 player local games in laptops without the need of being side by side using just one keyboard.
