@@ -4,6 +4,7 @@ Lightweight and ultra-minimalistic CLI Application implemented through Windows A
 
 ![NIDHOGGPreview](https://github.com/user-attachments/assets/2724918d-42e8-46dc-915d-1eca0dab1514)
 
+Original creation date: 04/12/2023
 # USAGE 
 Application contains two components: client and server.  Client will send keystrokes, server will receive them and replicate them as if they were his.
 ## SERVER
