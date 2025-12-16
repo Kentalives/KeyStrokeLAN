@@ -1,0 +1,4 @@
+﻿  NidhoggClientReal.cpp
+C:\Users\ojoas\source\repos\NidhoggClientReal\NidhoggClientReal\NidhoggClientReal.cpp(67,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\ojoas\source\repos\NidhoggClientReal\NidhoggClientReal\NidhoggClientReal.cpp(64,1): warning C4715: 'LowLevelKeyboardProc': no todas las rutas de acceso de control devuelven un valor
+  NidhoggClientReal.vcxproj -> C:\Users\ojoas\source\repos\NidhoggClientReal\x64\Debug\NidhoggClientReal.exe
