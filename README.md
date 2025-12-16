@@ -8,9 +8,9 @@ Original creation date: 04/12/2023
 # USAGE 
 Application contains two components: client and server.  Client will send keystrokes, server will receive them and replicate them as if they were his.
 ## SERVER
-To launch, run SERVER/NidhoggRemoteKeyboard.exe <p> , where <p> is the port where you wish the server to listen to (e.g, 5555).
+To launch, run SERVER/NidhoggRemoteKeyboard.exe \<p\> , where \<p\> is the port where you wish the server to listen to (e.g, 5555).
 ## CLIENT
-To launch, run CLIENT/x64/Release/NidhoggClientReal.exe <ip> <p>, where <ip> is the IP address of the server and <p> is the port where the server is listening.
+To launch, run CLIENT/x64/Release/NidhoggClientReal.exe \<ip\> \<p\>, where \<ip\> is the IP address of the server and \<p\> is the port where the server is listening.
 
 # ARCHITECTURE
 The server part is written in plain C99 using CLion and the client is written in C++17 using Visual Studio Community 2022.
